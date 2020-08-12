@@ -13,10 +13,10 @@ Steps to execute:
 
 Goto localhost with 5000 port number default for flask applications. 
 
-Create the post 
-Update the post 
-Read the post 
-Delete the post.
+1. Create the post 
+2. Update the post 
+3. Read the post 
+4. Delete the post.
 
 
 DB is designed in such a way so that it will drop the older data from the table. 
